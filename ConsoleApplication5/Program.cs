@@ -10,6 +10,7 @@ namespace ConsoleApplication5
     {
         static void Main(string[] args)
         {//Initialisation
+        //TC maj1
         }
     }
 }
